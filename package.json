@@ -1,0 +1,38 @@
+{
+  "name": "cyto-controller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/cyto-controller.git"
+  },
+  "author": "YinDongFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/cyto-controller/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/cyto-controller#readme",
+  "dependencies": {
+    "cytoscape": "^3.28.1",
+    "debug": "^4.3.4",
+    "express": "^4.19.2",
+    "is-array": "^1.0.1",
+    "is-falsy": "^0.0.1",
+    "is-null": "^1.0.1",
+    "is-number": "^7.0.0",
+    "is-odd": "^3.0.1",
+    "is-string": "^1.0.7",
+    "jquery": "^3.7.1",
+    "koa": "^2.15.2",
+    "lazy-store-loader": "^2.0.3",
+    "lodash": "^4.17.21",
+    "qs": "^6.12.0",
+    "querystring": "^0.2.1",
+    "webpack": "^5.91.0",
+    "cyto-extensions": "^1.0.0"
+  }
+}
